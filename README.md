@@ -1,2 +1,2 @@
 # alpha
-alpha project
+alpha project.
